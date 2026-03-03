@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-
-    return 2;
+    std::cout<<"HEHE"<<std::endl;
+    
+    return 0;
 }
