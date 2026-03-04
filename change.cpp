@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"HEHE"<<std::endl;
+    std::cout<<"HEHE 11"<<std::endl;
     
     return 0;
 }
